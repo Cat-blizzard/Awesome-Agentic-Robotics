@@ -202,9 +202,21 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 > Success detection, temporal verification, execution checking, and safety-aware evaluation.
 
+### 2026
+
+- \[2026.6] Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement [paper](https://arxiv.org/abs/2606.18247)
+- \[2026.6] VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents [paper](https://arxiv.org/abs/2606.05395)
+- \[2026.5] Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts [paper](https://arxiv.org/abs/2605.22446)
+- \[2026.5] SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation [paper](https://arxiv.org/abs/2605.12386)
+- \[2026.4] Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA [paper](https://arxiv.org/abs/2604.02965)
+- \[2026.3] Action Draft and Verify: A Self-Verifying Framework for Vision-Language-Action Model [paper](https://arxiv.org/abs/2603.18091)
+- \[2026.2] Metamorphic Testing of Vision-Language Action-Enabled Robots [paper](https://arxiv.org/abs/2602.22579)
+- \[2026.2] From Knowing to Doing Precisely: A General Self-Correction and Termination Framework for VLA models [paper](https://arxiv.org/abs/2602.01811)
+
 ### 2025
 
 - \[2025.12] Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models [paper](https://arxiv.org/abs/2512.01946)
+- \[2025.11] ROVER: Regulator-Driven Robust Temporal Verification of Black-Box Robot Policies [paper](https://arxiv.org/abs/2511.17781)
 - \[2025.3] RoboGuard: Safety Guardrails for LLM-Enabled Robots [paper](https://arxiv.org/abs/2503.07885) [code](https://github.com/KumarRobotics/RoboGuard)
 
 ### 2024
