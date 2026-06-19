@@ -25,6 +25,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 | [Benchmarks, Simulators, and Datasets](#benchmarks-simulators-and-datasets) | Evaluation resources for agentic robot behavior |
 | [Open-Source Systems and Frameworks](#open-source-systems-and-frameworks) | Open models, codebases, and robot agent frameworks |
 | [Industrial Signals and Technical Reports](#industrial-signals-and-technical-reports) | Technical reports, product signals, and industry releases |
+| [Related Awesome Lists](#related-awesome-lists) | Adjacent curated lists |
 
 **Paper ordering:** within each topic, entries use `[YYYY.M]` and are sorted newest first.
 
@@ -82,16 +83,24 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ### 2026
 
 - [2026.6] eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents [[paper]](https://arxiv.org/abs/2606.03374)
+- [2026.4] HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation [[paper]](https://arxiv.org/abs/2604.18791)
+- [2026.3] Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation [[paper]](https://arxiv.org/abs/2603.24576)
+- [2026.3] ReMem-VLA: Empowering Vision-Language-Action Model with Memory via Dual-Level Recurrent Queries [[paper]](https://arxiv.org/abs/2603.12942)
+- [2026.3] MEM: Multi-Scale Embodied Memory for Vision Language Action Models [[paper]](https://www.pi.website/download/Mem.pdf) [[project]](https://www.pi.website/research/memory)
 
 ### 2025
 
 - [2025.11] EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation [[paper]](https://arxiv.org/abs/2511.18112)
+- [2025.11] Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval [[paper]](https://arxiv.org/abs/2511.14004) [[project]](https://amrl.cs.utexas.edu/STAR/)
+- [2025.10] MemER: Scaling Up Memory for Robot Control via Experience Retrieval [[paper]](https://arxiv.org/abs/2510.20328) [[project]](https://jen-pan.github.io/memer/)
 - [2025.9] Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning [[paper]](https://arxiv.org/abs/2509.20754)
 - [2025.8] MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation [[paper]](https://arxiv.org/abs/2508.19236)
 - [2025.8] RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems [[paper]](https://arxiv.org/abs/2508.01415)
 
 ### 2024
 
+- [2024.11] [CVPR 25] 3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning [[paper]](https://arxiv.org/abs/2411.17735) [[project]](https://umass-embodied-agi.github.io/3D-Mem/) [[code]](https://github.com/UMass-Embodied-AGI/3D-Mem)
+- [2024.11] DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation [[paper]](https://arxiv.org/abs/2411.04999) [[project]](https://dynamem.github.io/)
 - [2024.9] Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation [[paper]](https://arxiv.org/html/2409.18313v2)
 
 ---
@@ -207,10 +216,13 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2026
 
+- [2026.4] HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation [[paper]](https://arxiv.org/abs/2604.18791)
+- [2026.3] Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation [[paper]](https://arxiv.org/abs/2603.24576)
 - [2026.3] RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks [[paper]](https://arxiv.org/abs/2603.11558)
 
 ### 2025
 
+- [2025.10] MemER: Scaling Up Memory for Robot Control via Experience Retrieval [[paper]](https://arxiv.org/abs/2510.20328) [[project]](https://jen-pan.github.io/memer/)
 - [2025.8] MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation [[paper]](https://arxiv.org/abs/2508.19236)
 - [2025.4] pi0.5: a Vision-Language-Action Model with Open-World Generalization [[paper]](https://arxiv.org/abs/2504.16054)
 
@@ -234,9 +246,15 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 > VLN, open-vocabulary navigation, lifelong navigation, social navigation, and cooperative multi-robot navigation.
 
+### 2025
+
+- [2025.11] Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval [[paper]](https://arxiv.org/abs/2511.14004) [[project]](https://amrl.cs.utexas.edu/STAR/)
+
 ### 2024
 
 - [2024.12] [RSS 25] Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks [[paper]](https://arxiv.org/abs/2412.06224) [[project]](https://pku-epic.github.io/Uni-NaVid/)
+- [2024.11] [CVPR 25] 3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning [[paper]](https://arxiv.org/abs/2411.17735) [[project]](https://umass-embodied-agi.github.io/3D-Mem/) [[code]](https://github.com/UMass-Embodied-AGI/3D-Mem)
+- [2024.11] DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation [[paper]](https://arxiv.org/abs/2411.04999) [[project]](https://dynamem.github.io/)
 - [2024.4] GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation [[paper]](https://arxiv.org/abs/2404.06609)
 - [2024.4] VLM-Social-Nav: Socially Aware Robot Navigation through Scoring Using Vision-Language Models [[paper]](https://arxiv.org/html/2404.00210v1)
 - [2024.2] Vision-Language Navigation with Embodied Intelligence [[paper]](https://arxiv.org/html/2402.14304v1)
@@ -337,6 +355,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2024
 
+- [2024.11] [CVPR 25] 3D-Mem [[paper]](https://arxiv.org/abs/2411.17735) [[project]](https://umass-embodied-agi.github.io/3D-Mem/) [[code]](https://github.com/UMass-Embodied-AGI/3D-Mem)
 - [2024.6] ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning [[paper]](https://arxiv.org/abs/2406.19741)
 - [2024.6] OpenVLA: An Open-Source Vision-Language-Action Model [[paper]](https://arxiv.org/abs/2406.09246) [[code]](https://github.com/openvla/openvla)
 - [2024.6] RoboCasa [[paper]](https://arxiv.org/abs/2406.02523)
@@ -365,6 +384,12 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ### 2024
 
 - [2024.10] [Physical Intelligence] pi0: A Vision-Language-Action Flow Model for General Robot Control [[paper]](https://arxiv.org/abs/2410.24164)
+
+---
+
+## Related Awesome Lists
+
+- [Awesome Memory for Robotics](https://github.com/Everloom-129/Awesome-Memory-for-Robotics) - A focused list on memory systems, memory-augmented policies, spatial memory, and memory benchmarks for robotics.
 
 ---
 
