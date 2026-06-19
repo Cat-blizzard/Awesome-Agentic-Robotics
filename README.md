@@ -13,7 +13,7 @@ A curated survey of physical agents: embodied memory, planning, world/action mod
 - [World Models and World-Action Models](#world-models-and-world-action-models)
 - [Verification and Self-Evaluation](#verification-and-self-evaluation)
 - [Failure Detection and Recovery](#failure-detection-and-recovery)
-- [Skill Calling and Tool Use for Robots](#skill-calling-and-tool-use-for-robots)
+- [Skill Calling, Tool Use, and Robot Execution Interfaces](#skill-calling-tool-use-and-robot-execution-interfaces)
 - [Long-Horizon Manipulation](#long-horizon-manipulation)
 - [Embodied Navigation Agents](#embodied-navigation-agents)
 - [Human-Robot Interaction and Dialogue Agents](#human-robot-interaction-and-dialogue-agents)
@@ -79,10 +79,6 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ## Agentic Robotics Architectures
 
 > Architectures that combine reasoning, execution, verification, memory, skill selection, or multi-agent coordination.
-
-### 2026
-
-- \[2026.3] RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks [paper](https://arxiv.org/abs/2603.11558)
 
 ### 2025
 
@@ -249,9 +245,18 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ---
 
-## Skill Calling and Tool Use for Robots
+## Skill Calling, Tool Use, and Robot Execution Interfaces
 
-> Robot-specific tool use: skill libraries, controller APIs, ROS actions, behavior trees, state machines, and code-as-policy.
+> Robotic skill libraries, tool/API invocation, Code-as-Policy, Tool-as-Policy, ROS/MCP execution interfaces, capability discovery, skill composition, and self-evolving skill repositories for physical agents.
+
+### 2026
+
+- \[2026.6] CLASP: Language-Driven Robot Skill Selection and Composition using Task-Parameterized Learning [paper](https://arxiv.org/abs/2606.08169)
+- \[2026.3] ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction [paper](https://arxiv.org/abs/2603.26997)
+- \[2026.3] RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks [paper](https://arxiv.org/abs/2603.11558)
+- \[2026.3] CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation [paper](https://arxiv.org/abs/2603.22435)
+- \[2026.3] Uni-Skill: Building Self-Evolving Skill Repository for Generalizable Robotic Manipulation [paper](https://arxiv.org/abs/2603.02623)
+- \[2026.1] ALRM: Agentic LLM for Robotic Manipulation [paper](https://arxiv.org/abs/2601.19510)
 
 ### 2025
 
