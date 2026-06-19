@@ -129,9 +129,17 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2026
 
+- [2026.6] MemoryWAM: Efficient World Action Modeling with Persistent Memory [[paper]](https://arxiv.org/abs/2606.20562)
 - [2026.6] World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis [[paper]](https://arxiv.org/abs/2606.05979)
+- [2026.6] WALL-WM: Carving World Action Modeling at the Event Joints [[paper]](https://arxiv.org/abs/2606.01955) [[project]](https://github.com/X-Square-Robot/wall-x)
 - [2026.5] World Action Models: The Next Frontier in Embodied AI [[paper]](https://arxiv.org/abs/2605.12090)
 - [2026.5] World Model for Robot Learning: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2605.00080)
+- [2026.5] Being-H0.7: A Latent World-Action Model from Egocentric Videos [[paper]](https://arxiv.org/abs/2605.00078)
+- [2026.4] MotuBrain: An Advanced World Action Model for Robot Control [[paper]](https://arxiv.org/abs/2604.27792)
+- [2026.3] ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment [[paper]](https://arxiv.org/abs/2603.23376)
+- [2026.3] GigaWorld-Policy: An Efficient Action-Centered World--Action Model [[paper]](https://arxiv.org/abs/2603.17240)
+- [2026.3] MosaicMem: Hybrid Spatial Memory for Controllable Video World Models [[paper]](https://arxiv.org/abs/2603.17117) [[project]](https://mosaicmem.github.io/mosaicmem/)
+- [2026.3] Fast-WAM: Do World Action Models Need Test-time Future Imagination? [[paper]](https://arxiv.org/abs/2603.16666) [[project]](https://yuantianyuan01.github.io/FastWAM/)
 - [2026.2] World Action Models are Zero-shot Policies [[paper]](https://arxiv.org/html/2602.15922v1)
 
 ### 2025
@@ -390,6 +398,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ## Related Awesome Lists
 
 - [Awesome Memory for Robotics](https://github.com/Everloom-129/Awesome-Memory-for-Robotics) - A focused list on memory systems, memory-augmented policies, spatial memory, and memory benchmarks for robotics.
+- [Awesome World Models](https://github.com/leofan90/Awesome-World-Models) - A curated list of world-model papers for general video generation, embodied AI, VLA, robotics, and autonomous driving.
 
 ---
 
