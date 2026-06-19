@@ -103,7 +103,6 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ### 2026
 
 - \[2026.6] eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents [paper](https://arxiv.org/abs/2606.03374)
-- \[2026.4] HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation [paper](https://arxiv.org/abs/2604.18791)
 - \[2026.3] Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation [paper](https://arxiv.org/abs/2603.24576)
 - \[2026.3] ReMem-VLA: Empowering Vision-Language-Action Model with Memory via Dual-Level Recurrent Queries [paper](https://arxiv.org/abs/2603.12942)
 - \[2026.3] MEM: Multi-Scale Embodied Memory for Vision Language Action Models [paper](https://www.pi.website/download/Mem.pdf) [project](https://www.pi.website/research/memory)
@@ -274,7 +273,20 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ## Long-Horizon Manipulation
 
-> Long-horizon, compositional, memory-conditioned, and progress-aware manipulation.
+> Long-horizon robotic manipulation, including hierarchical VLA systems, memory-augmented policies, progress-aware control, skill chaining, mobile manipulation, recovery-aware execution, and multi-stage task completion.
+
+### 2026
+
+- \[2026.6] SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation [paper](https://arxiv.org/abs/2606.12956)
+- \[2026.6] What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents [paper](https://arxiv.org/abs/2606.10267)
+- \[2026.6] VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation [paper](https://arxiv.org/abs/2606.07723)
+- \[2026.4] Long-Horizon Manipulation via Trace-Conditioned VLA Planning [paper](https://arxiv.org/abs/2604.21924)
+- \[2026.4] HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation [paper](https://arxiv.org/abs/2604.18791)
+- \[2026.4] Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection [paper](https://arxiv.org/abs/2604.13942)
+- \[2026.3] ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation [paper](https://arxiv.org/abs/2603.27670)
+- \[2026.3] Beyond Short-Horizon: VQ-Memory for Robust Long-Horizon Manipulation in Non-Markovian Simulation Benchmarks [paper](https://arxiv.org/abs/2603.09513)
+- \[2026.3] Non-Markovian Long-Horizon Robot Manipulation via Keyframe Chaining [paper](https://arxiv.org/abs/2603.01465)
+- \[2026.2] LiLo-VLA: Compositional Long-Horizon Manipulation via Linked Object-Centric Policies [paper](https://arxiv.org/abs/2602.21531)
 
 ### 2025
 
