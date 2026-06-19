@@ -22,6 +22,7 @@ A curated survey of physical agents: embodied memory, planning, world/action mod
 - [Open-Source Systems and Frameworks](#open-source-systems-and-frameworks)
 - [Industrial Signals and Technical Reports](#industrial-signals-and-technical-reports)
 - [Related Awesome Lists](#related-awesome-lists)
+- [Contact](#contact)
 
 ## What Agentic Robotics Means Here
 
@@ -371,20 +372,8 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ## Contributing
 
-Contributions are welcome. Please keep the list focused on agentic robotics instead of general robotics papers.
+Contributions are welcome. Please read [contributing.md](contributing.md) before submitting a pull request.
 
-Good entries should clearly relate to at least one of:
+## Contact
 
-- embodied memory
-- planning and reasoning
-- world models or world-action models
-- verification and self-evaluation
-- failure detection and recovery
-- skill calling, tool use, or robot APIs
-- long-horizon manipulation
-- embodied navigation
-- human-robot interaction
-- safety, governance, or physical risk
-- benchmarks that evaluate agentic robot behavior
-
-Please include concise links such as `[paper]`, `[project]`, `[code]`, `[blog]`, or `[report]`.
+Questions, suggestions, and collaborations are welcome. You can reach me at [duoliu@stu.hit.edu.cn](mailto:duoliu@stu.hit.edu.cn).
