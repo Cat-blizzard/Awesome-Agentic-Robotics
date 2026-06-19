@@ -1,6 +1,30 @@
 # Awesome Agentic Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of research on **Agentic Robotics**: memory, planning, world models, verification, failure recovery, tool use, and safety for physical agents.
+A curated survey of physical agents: embodied memory, planning, world/action models, verification, failure recovery, skill use, and safety for autonomous robots.
+
+## What do we mean by Agentic Robotics?
+
+Agentic Robotics is still an emerging and not-yet-standardized research direction. In this repository, we adopt an ability-centered view: a robotic system becomes more agentic when it can maintain task state, use memory, plan over future consequences, invoke skills or tools, verify execution, recover from failures, and operate under physical safety constraints.
+
+Unlike many LLM agents, which are often organized as text-mediated loops of planning, memory, tool use, and reflection, robotic agents must act in the physical world. Their agency is therefore not only expressed through an external LLM-style agent loop, but also through embodied mechanisms such as spatial-temporal memory, action-conditioned world models, execution verification, failure attribution, recovery policies, and safety envelopes.
+
+Not every work listed here is a full agentic robot system. Some papers contribute only one component of physical agency, such as memory, world modeling, verification, or recovery. The goal of this repository is to map these components and track how they are converging toward agentic embodied systems.
+
+## Scope
+
+This list includes works that contribute to at least one of the following capabilities:
+
+- embodied memory and state maintenance;
+- planning, reasoning, and skill composition;
+- world models and world-action models;
+- execution verification and self-evaluation;
+- failure detection, attribution, and recovery;
+- tool use, skill calling, and robot API invocation;
+- long-horizon manipulation and navigation;
+- human-robot interaction for agentic execution;
+- safety, governance, and physical-risk constraints.
+
+We intentionally include both explicit LLM/VLM-agent architectures and tightly coupled robot learning methods, because agentic behavior in robotics can emerge from either modular orchestration or internal embodied state dynamics.
 
 This repository follows a compact Awesome-list style: entries are grouped by topic and sorted by month in descending order. Each item uses the format:
 
@@ -10,6 +34,8 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 | Section | Description |
 | --- | --- |
+| [What do we mean by Agentic Robotics?](#what-do-we-mean-by-agentic-robotics) | Ability-centered framing for physical agency |
+| [Scope](#scope) | Inclusion criteria for the list |
 | [Surveys and Position Papers](#surveys-and-position-papers) | Field definitions, surveys, and position papers |
 | [Agentic Robotics Architectures](#agentic-robotics-architectures) | Planner, executor, verifier, memory, and orchestration architectures |
 | [Embodied Memory](#embodied-memory) | Episodic, semantic, spatial, temporal, and retrieval-based memory |
