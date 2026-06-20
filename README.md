@@ -22,6 +22,7 @@ A curated survey of physical agents: embodied memory, planning, world/action mod
 - [Open-Source Systems and Frameworks](#open-source-systems-and-frameworks)
 - [Industrial Signals and Technical Reports](#industrial-signals-and-technical-reports)
 - [Related Awesome Lists](#related-awesome-lists)
+- [Citation](#citation)
 - [Contact](#contact)
 
 ## What Agentic Robotics Means Here
@@ -449,6 +450,22 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 - [Awesome Memory for Robotics](https://github.com/Everloom-129/Awesome-Memory-for-Robotics) - A focused list on memory systems, memory-augmented policies, spatial memory, and memory benchmarks for robotics.
 - [Awesome World Models](https://github.com/leofan90/Awesome-World-Models) - A curated list of world-model papers for general video generation, embodied AI, VLA, robotics, and autonomous driving.
+
+---
+
+## Citation
+
+If you find this repository useful, please consider citing this list:
+
+```bibtex
+@misc{liu2026awesomeagenticrobotics,
+  title = {Awesome Agentic Robotics},
+  author = {Duo Liu},
+  journal = {GitHub repository},
+  url = {https://github.com/Cat-blizzard/awesome-agentic-robotics},
+  year = {2026},
+}
+```
 
 ---
 
