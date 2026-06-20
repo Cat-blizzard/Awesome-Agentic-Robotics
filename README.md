@@ -84,15 +84,15 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2026
 
-- \[2026.6] What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents [paper](https://arxiv.org/abs/2606.10267)
+- \[2026.6] What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents [paper](https://arxiv.org/abs/2606.10267) [project](https://jiahenghu.github.io/hi-vla)
 - \[2026.6] Agentic Neuro-Symbolic Planning and Commissioning for Human-in-the-Loop Industrial Robotics with Digital Twins [paper](https://arxiv.org/abs/2606.08214)
-- \[2026.6] VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation [paper](https://arxiv.org/abs/2606.07723)
+- \[2026.6] VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation [paper](https://arxiv.org/abs/2606.07723) [project](https://chicychen.github.io/VoLo)
 - \[2026.4] Long-Term Memory for VLA-based Agents in Open-World Task Execution [paper](https://arxiv.org/abs/2604.15671)
-- \[2026.4] A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring [paper](https://arxiv.org/abs/2604.07395)
-- \[2026.4] ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration [paper](https://arxiv.org/abs/2604.04664)
-- \[2026.3] RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks [paper](https://arxiv.org/abs/2603.11558)
-- \[2026.2] Agentic AI for Robot Control: Flexible but still Fragile [paper](https://arxiv.org/abs/2602.13081)
-- \[2026.2] PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation [paper](https://arxiv.org/abs/2602.01662)
+- \[2026.4] A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring [paper](https://arxiv.org/abs/2604.07395) [project](https://wenzewwz123.github.io/Agentic-Loop/) [code](https://github.com/WenzeWWZ123/Agentic-Loop)
+- \[2026.4] ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration [paper](https://arxiv.org/abs/2604.04664) [project](https://www.rosclaw.io/) [code](https://github.com/ros-claw/rosclaw)
+- \[2026.3] RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks [paper](https://arxiv.org/abs/2603.11558) [code](https://github.com/RoboClaw-Robotics/RoboClaw)
+- \[2026.2] Agentic AI for Robot Control: Flexible but still Fragile [paper](https://arxiv.org/abs/2602.13081) [project](https://dfki-ni.github.io/AGENTS-MAKE-2026/) [code](https://github.com/DFKI-NI/mobipick_labs)
+- \[2026.2] PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation [paper](https://arxiv.org/abs/2602.01662) [project](https://planar-robot.github.io/)
 
 ### 2025
 
