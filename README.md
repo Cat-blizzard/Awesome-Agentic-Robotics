@@ -98,6 +98,8 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 - \[2025.10] Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer [paper](https://arxiv.org/abs/2510.03342)
 - \[2025.5] Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents [paper](https://arxiv.org/abs/2505.23450)
+- \[2025.5] RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation [paper](https://arxiv.org/abs/2505.01709)
+- \[2025.3] CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments [paper](https://arxiv.org/abs/2503.00729)
 - \[2025.2] Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [paper](https://arxiv.org/html/2502.19417v1) [project](https://www.pi.website/research/hirobot)
 
 ### 2023
@@ -148,13 +150,18 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2025
 
+- \[2025.12] Large Video Planner [paper](https://arxiv.org/abs/2512.15840)
 - \[2025.11] LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models [paper](https://arxiv.org/abs/2511.07727)
 - \[2025.9] Robix: A Unified Model for Robot Interaction, Reasoning and Planning [paper](https://arxiv.org/abs/2509.01106)
 - \[2025.9] OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning [paper](https://arxiv.org/abs/2509.09332)
 - \[2025.9] Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation [paper](https://arxiv.org/abs/2509.25852)
+- \[2025.7] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning [paper](https://arxiv.org/abs/2507.16815)
 - \[2025.6] Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning [paper](https://arxiv.org/abs/2506.23127)
+- \[2025.3] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [paper](https://arxiv.org/abs/2503.21696)
 - \[2025.3] LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language [paper](https://arxiv.org/abs/2503.17309)
+- \[2025.3] GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions [paper](https://arxiv.org/abs/2503.16013)
 - \[2025.3] Safety Aware Task Planning via Large Language Models in Robotics [paper](https://arxiv.org/abs/2503.15707)
+- \[2025.3] Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation [paper](https://arxiv.org/abs/2503.01700)
 
 ### 2024
 
@@ -189,6 +196,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 - \[2026.6] NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation [paper](https://arxiv.org/abs/2606.13494)
 - \[2026.6] World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis [paper](https://arxiv.org/abs/2606.05979)
 - \[2026.6] WALL-WM: Carving World Action Modeling at the Event Joints [paper](https://arxiv.org/abs/2606.01955) [project](https://github.com/X-Square-Robot/wall-x)
+- \[2026.5] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation [paper](https://arxiv.org/abs/2605.22882)
 - \[2026.5] Being-H0.7: A Latent World-Action Model from Egocentric Videos [paper](https://arxiv.org/abs/2605.00078)
 - \[2026.4] MotuBrain: An Advanced World Action Model for Robot Control [paper](https://arxiv.org/abs/2604.27792)
 - \[2026.3] ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment [paper](https://arxiv.org/abs/2603.23376)
@@ -196,11 +204,15 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 - \[2026.3] MosaicMem: Hybrid Spatial Memory for Controllable Video World Models [paper](https://arxiv.org/abs/2603.17117) [project](https://mosaicmem.github.io/mosaicmem/)
 - \[2026.3] Fast-WAM: Do World Action Models Need Test-time Future Imagination? [paper](https://arxiv.org/abs/2603.16666) [project](https://yuantianyuan01.github.io/FastWAM/)
 - \[2026.3] ImagiNav: Scalable Embodied Navigation via Generative Visual Prediction and Inverse Dynamics [paper](https://arxiv.org/abs/2603.13833)
+- \[2026.3] DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control [paper](https://arxiv.org/abs/2603.10448)
 - \[2026.2] World Action Models are Zero-shot Policies [paper](https://arxiv.org/html/2602.15922v1)
+- \[2026.1] Causal World Modeling for Robot Control [paper](https://arxiv.org/abs/2601.21998)
+- \[2026.1] PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation [paper](https://arxiv.org/abs/2601.03782)
 
 ### 2025
 
 - \[2025.6] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning [paper](https://arxiv.org/abs/2506.09985)
+- \[2025.3] Object-Centric World Model for Language-Guided Manipulation [paper](https://arxiv.org/abs/2503.06170)
 
 ---
 
@@ -223,6 +235,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 - \[2025.12] Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models [paper](https://arxiv.org/abs/2512.01946)
 - \[2025.11] ROVER: Regulator-Driven Robust Temporal Verification of Black-Box Robot Policies [paper](https://arxiv.org/abs/2511.17781)
+- \[2025.5] Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition [paper](https://arxiv.org/abs/2505.11175)
 - \[2025.3] RoboGuard: Safety Guardrails for LLM-Enabled Robots [paper](https://arxiv.org/abs/2503.07885) [code](https://github.com/KumarRobotics/RoboGuard)
 
 ### 2024
@@ -243,10 +256,14 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ### 2026
 
 - \[2026.2] ARMOR: Self-Refining Vision Language Model for Robotic Failure Detection and Reasoning [paper](https://arxiv.org/html/2602.12405v1)
+- \[2026.1] CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding [paper](https://arxiv.org/abs/2601.02295)
 
 ### 2025
 
 - \[2025.10] FailSafe-VLM: Reasoning and Recovery from Failures in Vision-Language-Action Models [paper](https://arxiv.org/html/2510.01642v1)
+- \[2025.9] FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction [paper](https://arxiv.org/abs/2509.04018)
+- \[2025.6] SAFE: Multitask Failure Detection for Vision-Language-Action Models [paper](https://arxiv.org/abs/2506.09937)
+- \[2025.3] STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems [paper](https://arxiv.org/abs/2503.06060)
 - \[2025.3] A Unified Framework for Real-Time Failure Handling in Autonomous Robots [paper](https://arxiv.org/html/2503.15202v2)
 
 ### 2024
@@ -269,7 +286,11 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2025
 
+- \[2025.5] Dynamic Robot Tool Use with Vision Language Models [paper](https://arxiv.org/abs/2505.01399)
+- \[2025.5] DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation [paper](https://arxiv.org/abs/2505.00527)
 - \[2025.5] RAI: Flexible Agent Framework for Embodied AI [paper](https://arxiv.org/abs/2505.07532) [code](https://github.com/RobotecAI/rai)
+- \[2025.4] SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation [paper](https://arxiv.org/abs/2504.15561)
+- \[2025.1] An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation [paper](https://arxiv.org/abs/2501.15068)
 
 ### 2024
 
