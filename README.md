@@ -64,6 +64,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 - \[2026.5] World Action Models: The Next Frontier in Embodied AI [paper](https://arxiv.org/abs/2605.12090)
 - \[2026.5] World Model for Robot Learning: A Comprehensive Survey [paper](https://arxiv.org/abs/2605.00080)
 - \[2026.4] Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms [paper](https://arxiv.org/abs/2604.23775)
+- \[2026.4] Vision-and-Language Navigation for UAVs: A Survey of Progress, Challenges and a Research Roadmap [paper](https://arxiv.org/abs/2604.13614)
 
 ### 2025
 
@@ -173,6 +174,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ### 2026
 
 - \[2026.6] MemoryWAM: Efficient World Action Modeling with Persistent Memory [paper](https://arxiv.org/abs/2606.20562)
+- \[2026.6] NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation [paper](https://arxiv.org/abs/2606.13494)
 - \[2026.6] World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis [paper](https://arxiv.org/abs/2606.05979)
 - \[2026.6] WALL-WM: Carving World Action Modeling at the Event Joints [paper](https://arxiv.org/abs/2606.01955) [project](https://github.com/X-Square-Robot/wall-x)
 - \[2026.5] Being-H0.7: A Latent World-Action Model from Egocentric Videos [paper](https://arxiv.org/abs/2605.00078)
@@ -181,6 +183,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 - \[2026.3] GigaWorld-Policy: An Efficient Action-Centered World--Action Model [paper](https://arxiv.org/abs/2603.17240)
 - \[2026.3] MosaicMem: Hybrid Spatial Memory for Controllable Video World Models [paper](https://arxiv.org/abs/2603.17117) [project](https://mosaicmem.github.io/mosaicmem/)
 - \[2026.3] Fast-WAM: Do World Action Models Need Test-time Future Imagination? [paper](https://arxiv.org/abs/2603.16666) [project](https://yuantianyuan01.github.io/FastWAM/)
+- \[2026.3] ImagiNav: Scalable Embodied Navigation via Generative Visual Prediction and Inverse Dynamics [paper](https://arxiv.org/abs/2603.13833)
 - \[2026.2] World Action Models are Zero-shot Policies [paper](https://arxiv.org/html/2602.15922v1)
 
 ### 2025
@@ -310,7 +313,22 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ## Embodied Navigation Agents
 
-> VLN, open-vocabulary navigation, lifelong navigation, social navigation, and cooperative multi-robot navigation.
+> Embodied navigation agents, including vision-language navigation, object-goal navigation, spatial memory, map/scene-graph reasoning, active exploration, self-correction, cross-embodiment navigation, aerial/ground navigation, and navigation world models.
+
+### 2026
+
+- \[2026.6] SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning [paper](https://arxiv.org/abs/2606.08992)
+- \[2026.6] EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation [paper](https://arxiv.org/abs/2606.03509)
+- \[2026.5] Uni-LaViRA: Language-Vision-Robot Actions Translation for Unified Embodied Navigation [paper](https://arxiv.org/abs/2605.27582)
+- \[2026.4] A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration [paper](https://arxiv.org/abs/2604.21363)
+- \[2026.3] ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation [paper](https://arxiv.org/abs/2603.26788)
+- \[2026.3] AgentVLN: Towards Agentic Vision-and-Language Navigation [paper](https://arxiv.org/abs/2603.17670)
+- \[2026.3] OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation in Air-Ground Robots [paper](https://arxiv.org/abs/2603.17351)
+- \[2026.3] EmergeNav: Structured Embodied Inference for Zero-Shot Vision-and-Language Navigation in Continuous Environments [paper](https://arxiv.org/abs/2603.16947)
+- \[2026.3] AerialVLA: A Vision-Language-Action Model for Aerial Navigation with Online Dialogue [paper](https://ojs.aaai.org/index.php/AAAI/article/view/38878)
+- \[2026.3] NaVLA^2: A Vision-Language-Audio-Action Model for Multimodal Instruction Navigation [paper](https://ojs.aaai.org/index.php/AAAI/article/view/38886)
+- \[2026.3] SysNav: Multi-Level Systematic Cooperation Enables Real-World, Cross-Embodiment Object Navigation [paper](https://arxiv.org/abs/2603.06914)
+- \[2026.1] VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory [paper](https://arxiv.org/abs/2601.08665)
 
 ### 2024
 
@@ -376,6 +394,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2025
 
+- \[2025.10] NaviTrace: Evaluating Embodied Navigation of Vision-Language Models [paper](https://arxiv.org/abs/2510.06757)
 - \[2025.4] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins [paper](https://arxiv.org/abs/2504.13059)
 
 ### 2024
