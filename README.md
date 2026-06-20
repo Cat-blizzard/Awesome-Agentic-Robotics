@@ -416,6 +416,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2024
 
+- \[2024.10] Dimensional OS: Agentic Operating System for Physical Space [project](https://dimensionalos.com/) [code](https://github.com/dimensionalOS/dimos)
 - \[2024.5] Octo: An Open-Source Generalist Robot Policy [paper](https://arxiv.org/abs/2405.12213)
 
 ### 2023
