@@ -452,8 +452,9 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ## Related Awesome Lists
 
-- [Awesome Memory for Robotics](https://github.com/Everloom-129/Awesome-Memory-for-Robotics) - A focused list on memory systems, memory-augmented policies, spatial memory, and memory benchmarks for robotics.
-- [Awesome World Models](https://github.com/leofan90/Awesome-World-Models) - A curated list of world-model papers for general video generation, embodied AI, VLA, robotics, and autonomous driving.
+- [Awesome Memory for Robotics](https://github.com/Everloom-129/Awesome-Memory-for-Robotics)
+- [Awesome World Models](https://github.com/leofan90/Awesome-World-Models)
+- [Awesome Embodied VLA / VA / VLN](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
 
 ---
 
