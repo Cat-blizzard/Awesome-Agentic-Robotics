@@ -126,16 +126,16 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ### 2025
 
 - \[2025.11] EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation [paper](https://arxiv.org/abs/2511.18112)
-- \[2025.11] Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval [paper](https://arxiv.org/abs/2511.14004) [project](https://amrl.cs.utexas.edu/STAR/)
-- \[2025.10] MemER: Scaling Up Memory for Robot Control via Experience Retrieval [paper](https://arxiv.org/abs/2510.20328) [project](https://jen-pan.github.io/memer/)
-- \[2025.9] Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning [paper](https://arxiv.org/abs/2509.20754)
-- \[2025.8] MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation [paper](https://arxiv.org/abs/2508.19236)
-- \[2025.8] RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems [paper](https://arxiv.org/abs/2508.01415)
+- \[2025.11] Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval [paper](https://arxiv.org/abs/2511.14004) [project](https://amrl.cs.utexas.edu/STAR/) [code](https://github.com/ut-amrl/STAR)
+- \[2025.10] MemER: Scaling Up Memory for Robot Control via Experience Retrieval [paper](https://arxiv.org/abs/2510.20328) [project](https://jen-pan.github.io/memer/) [code](https://github.com/memer-policy/memer/tree/main)
+- \[2025.9] Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning [paper](https://arxiv.org/abs/2509.20754) [project](https://itsbaymax.github.io/meta-memory.github.io/) [code](https://github.com/ItsBaymax/Meta-Memory)
+- \[2025.8] MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation [paper](https://arxiv.org/abs/2508.19236) [project](https://shihao1895.github.io/MemoryVLA/) [code](https://github.com/shihao1895/MemoryVLA)
+- \[2025.8] RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems [paper](https://arxiv.org/abs/2508.01415) [project](https://sp4595.github.io/robomemory/)
 
 ### 2024
 
 - \[2024.11] \[CVPR 25] 3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning [paper](https://arxiv.org/abs/2411.17735) [project](https://umass-embodied-agi.github.io/3D-Mem/) [code](https://github.com/UMass-Embodied-AGI/3D-Mem)
-- \[2024.11] DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation [paper](https://arxiv.org/abs/2411.04999) [project](https://dynamem.github.io/)
+- \[2024.11] DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation [paper](https://arxiv.org/abs/2411.04999) [project](https://dynamem.github.io/) [code](https://github.com/hello-robot/stretch_ai)
 - \[2024.9] Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation [paper](https://arxiv.org/html/2409.18313v2)
 
 ---
