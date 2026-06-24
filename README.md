@@ -84,6 +84,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2026
 
+- \[2026.6] HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory [paper](https://arxiv.org/abs/2606.23565) [project](https://horizonrobotics.github.io/robot_lab/holoagent/) [code](https://github.com/HorizonRobotics/HoloAgent)
 - \[2026.6] What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents [paper](https://arxiv.org/abs/2606.10267) [project](https://jiahenghu.github.io/hi-vla)
 - \[2026.6] Agentic Neuro-Symbolic Planning and Commissioning for Human-in-the-Loop Industrial Robotics with Digital Twins [paper](https://arxiv.org/abs/2606.08214)
 - \[2026.6] VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation [paper](https://arxiv.org/abs/2606.07723) [project](https://chicychen.github.io/VoLo)
